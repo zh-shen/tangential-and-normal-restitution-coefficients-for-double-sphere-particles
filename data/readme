@@ -1,0 +1,6 @@
+file name like "h*s*" contains exprimental data of collision between two single-spheres
+  file "h*s*po1.txt" and file "h*s*po2.txt" express data for first sphere position over time and data for the other sphere position over time in the same experiment.  
+
+
+file name like "h*d*" contains exprimental data of a single-sphere hitting on a double-sphere
+  file "h*d*po1.txt", file "h*d*po21.txt" and file "h*d*po22.txt" are data for first sphere position over time, data for first sphere of the double-sphere system position over time and data for second sphere of the double-sphere system position over time 
